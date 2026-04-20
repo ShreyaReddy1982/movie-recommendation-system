@@ -44,13 +44,35 @@ To design a recommendation engine that mimics real-world platforms like Netflix 
 
 ## 📊 Sample Outputs
 
-### 🎬 Recommendations
+The following visualizations demonstrate the performance and capabilities of the recommendation system:
+
+---
+
+### 🎬 Top Movie Recommendations
+Example output showing similarity-based recommendations for a given movie.
 
 ![Recommendation](images/recommendation.png)
 
-### 📊 Genre Distribution
+---
+
+### 📋 Structured Recommendation Table
+Clean tabular output displaying recommended movies with similarity scores.
+
+![Table](images/table.png)
+
+---
+
+### 📊 Genre Distribution Analysis
+Visualization of the most common movie genres in the dataset.
 
 ![Genre](images/genre.png)
+
+---
+
+### 🔥 Similarity Heatmap
+Heatmap representing similarity between movies based on feature vectors.
+
+![Heatmap](images/heatmap.png)
 
 ---
 
